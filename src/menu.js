@@ -4,6 +4,7 @@ import foodThird from "./food3.jpg";
 import foodFourth from "./food4.jpg";
 
 const menuContent = document.querySelector("#menuContent");
+console.log("everything fine menu.js");
 
 let menuAdded = false;
 const nav = document.querySelector("nav");

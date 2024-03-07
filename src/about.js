@@ -2,6 +2,7 @@ const aboutContent = document.querySelector("#aboutContent");
 
 let aboutAdded = false;
 const nav = document.querySelector("nav");
+console.log("everything fine about.js");
 
 const showAbout = () => {
   if (!aboutAdded) {
